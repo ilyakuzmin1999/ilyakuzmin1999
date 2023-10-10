@@ -11,5 +11,6 @@
 - Git
 
 ## Связь со мной 📫
-- ![image](https://github.com/ilyakuzmin1999/ilyakuzmin1999/assets/124910387/ea44b2bc-a774-426e-ab56-e6744927c0e7)
+- Telegram: http://t.me/kuzm1nii
+- Почта: ilya-kuzmin15@yandex.ru
 
